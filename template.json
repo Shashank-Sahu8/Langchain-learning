@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length",
+        "paper_type",
+        "topic"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Write a {paper_type} on the topic of {topic} with a length of {length} words.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
